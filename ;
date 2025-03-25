@@ -1,0 +1,47 @@
+Projeto kids Med
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    mayara <mayarabraineraguiar@gmail.com>
+# Date:      Mon Feb 10 14:31:51 2025 -0300
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# No commands done.
+# Next commands to do (2 remaining commands):
+#    pick a89e84b projeto inicial
+#    pick e9b4c22 Projeto kids Med
+# You are currently editing a commit while rebasing branch 'main' on 'c4191bf'.
+#
+# Changes to be committed:
+#	renamed:    src/main/java/med/voll/web_application/WebApplication.java -> src/main/java/kids/med/web_application/WebApplication.java
+#	renamed:    src/main/java/med/voll/web_application/controller/ConsultaController.java -> src/main/java/kids/med/web_application/controller/ConsultaController.java
+#	renamed:    src/main/java/med/voll/web_application/controller/IndexController.java -> src/main/java/kids/med/web_application/controller/IndexController.java
+#	renamed:    src/main/java/med/voll/web_application/controller/MedicoController.java -> src/main/java/kids/med/web_application/controller/MedicoController.java
+#	renamed:    src/main/java/med/voll/web_application/domain/RegraDeNegocioException.java -> src/main/java/kids/med/web_application/domain/RegraDeNegocioException.java
+#	renamed:    src/main/java/med/voll/web_application/domain/consulta/Consulta.java -> src/main/java/kids/med/web_application/domain/consulta/Consulta.java
+#	renamed:    src/main/java/med/voll/web_application/domain/consulta/ConsultaRepository.java -> src/main/java/kids/med/web_application/domain/consulta/ConsultaRepository.java
+#	renamed:    src/main/java/med/voll/web_application/domain/consulta/ConsultaService.java -> src/main/java/kids/med/web_application/domain/consulta/ConsultaService.java
+#	renamed:    src/main/java/med/voll/web_application/domain/consulta/DadosAgendamentoConsulta.java -> src/main/java/kids/med/web_application/domain/consulta/DadosAgendamentoConsulta.java
+#	renamed:    src/main/java/med/voll/web_application/domain/consulta/DadosListagemConsulta.java -> src/main/java/kids/med/web_application/domain/consulta/DadosListagemConsulta.java
+#	renamed:    src/main/java/med/voll/web_application/domain/medico/DadosCadastroMedico.java -> src/main/java/kids/med/web_application/domain/medico/DadosCadastroMedico.java
+#	renamed:    src/main/java/med/voll/web_application/domain/medico/DadosListagemMedico.java -> src/main/java/kids/med/web_application/domain/medico/DadosListagemMedico.java
+#	renamed:    src/main/java/med/voll/web_application/domain/medico/Especialidade.java -> src/main/java/kids/med/web_application/domain/medico/Especialidade.java
+#	renamed:    src/main/java/med/voll/web_application/domain/medico/Medico.java -> src/main/java/kids/med/web_application/domain/medico/Medico.java
+#	renamed:    src/main/java/med/voll/web_application/domain/medico/MedicoRepository.java -> src/main/java/kids/med/web_application/domain/medico/MedicoRepository.java
+#	renamed:    src/main/java/med/voll/web_application/domain/medico/MedicoService.java -> src/main/java/kids/med/web_application/domain/medico/MedicoService.java
+#	renamed:    src/main/java/med/voll/web_application/infra/exception/TratadorDeExceptions.java -> src/main/java/kids/med/web_application/infra/exception/TratadorDeExceptions.java
+#	modified:   src/main/resources/application.properties
+#	deleted:    src/main/resources/static/assets/logo-alura.png
+#	new file:   src/main/resources/static/assets/logokidsMed.png
+#	deleted:    src/main/resources/static/assets/medica.png
+#	deleted:    src/main/resources/static/assets/medico.png
+#	deleted:    src/main/resources/static/assets/voll.png
+#	modified:   src/main/resources/static/css/estilos.css
+#	modified:   src/main/resources/templates/componentes/_footer.html
+#	modified:   src/main/resources/templates/componentes/_menu.html
+#	modified:   src/main/resources/templates/index.html
+#	modified:   src/main/resources/templates/template.html
+#
