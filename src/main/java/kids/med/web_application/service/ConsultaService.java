@@ -1,9 +1,9 @@
 package kids.med.web_application.service;
 
 import jakarta.transaction.Transactional;
-import kids.med.web_application.domain.consulta.Consulta;
-import kids.med.web_application.domain.consulta.DadosAgendamentoConsulta;
-import kids.med.web_application.domain.consulta.DadosListagemConsulta;
+import kids.med.web_application.model.consulta.Consulta;
+import kids.med.web_application.model.consulta.DadosAgendamentoConsulta;
+import kids.med.web_application.model.consulta.DadosListagemConsulta;
 import kids.med.web_application.repositories.MedicoRepository;
 import kids.med.web_application.repositories.ConsultaRepository;
 import org.springframework.data.domain.Page;

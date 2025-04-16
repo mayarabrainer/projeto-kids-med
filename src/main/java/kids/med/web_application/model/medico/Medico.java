@@ -1,4 +1,4 @@
-package kids.med.web_application.domain.medico;
+package kids.med.web_application.model.medico;
 
 import jakarta.persistence.*;
 

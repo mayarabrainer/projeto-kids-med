@@ -1,7 +1,7 @@
 package kids.med.web_application.repositories;
 
-import kids.med.web_application.domain.medico.Especialidade;
-import kids.med.web_application.domain.medico.Medico;
+import kids.med.web_application.model.medico.Especialidade;
+import kids.med.web_application.model.medico.Medico;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

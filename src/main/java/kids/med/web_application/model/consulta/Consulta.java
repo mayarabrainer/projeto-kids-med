@@ -1,7 +1,7 @@
-package kids.med.web_application.domain.consulta;
+package kids.med.web_application.model.consulta;
 
 import jakarta.persistence.*;
-import kids.med.web_application.domain.medico.Medico;
+import kids.med.web_application.model.medico.Medico;
 
 import java.time.LocalDateTime;
 

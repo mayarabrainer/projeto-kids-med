@@ -1,4 +1,4 @@
-package kids.med.web_application.domain.medico;
+package kids.med.web_application.model.medico;
 
 public record DadosListagemMedico(Long id, String nome, String email, String crm, Especialidade especialidade) {
 

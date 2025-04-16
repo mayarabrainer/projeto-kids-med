@@ -1,4 +1,4 @@
-package kids.med.web_application.domain;
+package kids.med.web_application.model;
 
 public class RegraDeNegocioException extends RuntimeException {
 

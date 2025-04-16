@@ -1,10 +1,10 @@
 package kids.med.web_application.controller;
 
 import jakarta.validation.Valid;
-import kids.med.web_application.domain.RegraDeNegocioException;
-import kids.med.web_application.domain.medico.DadosCadastroMedico;
-import kids.med.web_application.domain.medico.DadosListagemMedico;
-import kids.med.web_application.domain.medico.Especialidade;
+import kids.med.web_application.model.RegraDeNegocioException;
+import kids.med.web_application.model.medico.DadosCadastroMedico;
+import kids.med.web_application.model.medico.DadosListagemMedico;
+import kids.med.web_application.model.medico.Especialidade;
 import kids.med.web_application.service.MedicoService;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.web.PageableDefault;
