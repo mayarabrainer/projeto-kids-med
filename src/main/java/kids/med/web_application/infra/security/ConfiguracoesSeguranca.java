@@ -1,4 +1,4 @@
-package kids.med.web_application.infra.exception.security;
+package kids.med.web_application.infra.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

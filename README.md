@@ -1,5 +1,7 @@
 ### 🏥 KidsMed - Sistema de Gestão de Consultas Médicas
 
+![kidsmed](assets/kidsmed.gif)
+
 ## 📌 Sobre o Projeto
 
 Este projeto é uma aplicação desenvolvida em Java utilizando o Spring Boot e o Spring Framework, com persistência de dados no MySQL. O sistema permite o cadastro de pacientes, 
